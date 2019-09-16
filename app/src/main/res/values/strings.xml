@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="totalTextView">Total</string>
+    <string name="customPercentTextView">Custom%</string>
+    <string name="percent15TextView">15%</string>
+    <string name="percentCustomTextView">18%</string>
+    <string name="tipTextView">Tip</string>
+    <string name="amountTextView">Amount</string>
+</resources>
